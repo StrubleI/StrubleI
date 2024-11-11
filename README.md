@@ -1,5 +1,5 @@
 # 🎮 Hi, I go by Iván:
-  I’m a passionate game developer skilled in both Unreal Engine 5 and Unity 🕹️  
+  I’m a passionate game developer and project manager skilled in both Unreal Engine 5 and Unity 🕹️  
 
   With experience in these powerful engines, I enjoy crafting immersive, dynamic, and visually compelling projects that push the boundaries of what's possible in gaming <br><br>Beyond my primary work, I take on side projects to sharpen my skills and explore new ideas as a C++ programmer. You will find some of them here! <br><br>  I’m always open to collaboration and love connecting with fellow developers. Let’s create something amazing together! ✨
 
