@@ -3,6 +3,9 @@
 
   With experience in these powerful engines, I enjoy crafting immersive, dynamic, and visually compelling projects that push the boundaries of what's possible in gaming <br><br>Beyond my primary work, I take on side projects to sharpen my skills and explore new ideas as a C++ programmer. You will find some of them here! <br><br> I also happen to design some great webpages! <br><br> I’m always open to collaboration and love connecting with fellow developers. Let’s create something amazing together! ✨
 
+  You can contact me through my [Personal Website](https://soloist.ai/ivanjimenez) or my [LinkTree](https://linktr.ee/Struble_)! <br><br>
+  
+
 
 # 💻 Main Skills:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
