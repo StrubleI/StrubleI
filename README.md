@@ -1,7 +1,7 @@
 # 🎮 Hi, I'm Iván
   I’m a passionate game developer and project manager skilled in both Unreal Engine 5 and Unity 🕹️  
 
-  With experience in these powerful engines, I enjoy crafting immersive, dynamic, and visually compelling projects that push the boundaries of what's possible in gaming <br><br>Beyond my primary work, I take on side projects to sharpen my skills and explore new ideas as a C++ programmer. You will find some of them here! <br><br> I also happen to design some great webpages! <br><br> I’m always open to collaboration and love connecting with fellow developers. Let’s create something amazing together! ✨
+  With experience in these powerful engines, I enjoy crafting immersive, dynamic, and visually compelling projects that push the boundaries of what's possible in gaming <br><br>Beyond my primary work, I take on side projects to sharpen my skills and explore new ideas as a C++ programmer. You will find some of them here! <br><br> If you are learning C++, you should definately check out some of my tutorials! <br><br> I also happen to design some great webpages! <br><br> I’m always open to collaboration and love connecting with fellow developers. Let’s create something amazing together! ✨
 
   You can contact me through my [Personal Website](https://soloist.ai/ivanjimenez) or my [LinkTree](https://linktr.ee/Struble_)! <br><br>
   
